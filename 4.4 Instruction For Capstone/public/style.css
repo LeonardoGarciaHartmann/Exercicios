@@ -1,0 +1,43 @@
+body{
+    background-color: #504B38;
+}
+hr{
+    border: solid #B9B28A;
+    border-radius: 30%;
+}
+#cabecalho{
+    display: flex;
+}
+
+#cabecalho h1{
+    text-align: center;
+    font-size: 50px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#contato{
+    font-size: 20px;
+    margin: 0;
+    margin-left: 10px;
+    display: flex;
+}
+#a4{
+    margin-left: 18%;
+    background-color: #F8F3D9;
+    width: 1000px;   
+    border-radius: 2%;
+    height: 850px;
+}
+h2{
+    margin-left: 10px;
+}
+p{
+    margin: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+}
